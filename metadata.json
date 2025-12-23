@@ -1,0 +1,5 @@
+{
+  "name": "TruthGuard AI",
+  "description": "An AI-powered assistant that detects fake news and scam messages, providing likelihood scores and safety tips.",
+  "requestFramePermissions": []
+}
